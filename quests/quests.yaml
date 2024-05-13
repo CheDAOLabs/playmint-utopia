@@ -3,7 +3,6 @@ kind: Quest
 spec:
   name: Northwest riddle
   description: "In fields, I nurture life's seed,Self-sufficient, I shine alone.Guardian and master,Name me to open freedom's gate.."
-  location: [0, 0, 0]
   tasks:
     - kind: coord
       name: Pass the Northwest Gate
@@ -13,8 +12,7 @@ spec:
 kind: Quest
 spec:
   name: Northeast riddle
-  description: '"In a land of peace and justice,I am the dream that leads.Name me to unlock the gate."'
-  location: [-4, 0, 4]
+  description: "In a land of peace and justice,I am the dream that leads.Name me to unlock the gate."
   tasks:
     - kind: coord
       name: Pass the Northeast Gate
@@ -25,7 +23,6 @@ kind: Quest
 spec:
   name: Southeast riddle
   description: "Where voices blend,I am the bond.Name my essence to unlock."
-  location: [-2, -6, 8]
   tasks:
     - kind: coord
       name: Pass the Southeast Gates
@@ -36,7 +33,6 @@ kind: Quest
 spec:
   name: Southwest riddle
   description: "All are valued, none above,I balance, name my spirit."
-  location: [6, 1, -7]
   tasks:
     - kind: coord
       name: Pass the Southwest Gates
@@ -47,7 +43,6 @@ kind: Quest
 spec:
   name: The Lair of The Crusher
   description: "Congratulations, you have opened all the doors to enter the ultimate challenge, thank you for participating"
-  location: [4, 4, -8]
   tasks:
     - kind: coord
       name: Pass the Bone Gate
