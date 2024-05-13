@@ -1,0 +1,5055 @@
+
+---
+kind: Tile
+spec:
+  location: [ -2, -6, 8 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, -5, 8 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -4, -4, 8 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -4, -4, 8 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -8, 0, 8 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -7, 0, 7 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -4, -3, 7 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -4, -3, 7 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -3, -4, 7 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -2, -5, 7 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -1, -6, 7 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -1, -5, 6 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -2, -4, 6 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, -3, 6 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -4, -2, 6 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -6, 0, 6 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 0, -6, 6 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 0, -5, 5 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 0, -4, 4 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 0, -4, 4 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 0, -3, 3 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -1, -2, 3 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 0, -2, 2 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -1, -1, 2 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -1, -1, 2 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -1, 0, 1 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -1, 0, 1 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -1, 1, 0 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -1, 1, 0 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 0, -1, 1 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ 0, -1, 1 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 0, 0, 0 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ 0, 0, 0 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 0, 1, -1 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 0, 1, -1 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 0, 2, -2 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 0, 3, -3 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -2, -1, 3 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -2, 0, 2 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 1, -2, 1 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 1, -3, 2 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -1, -4, 5 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -2, -3, 5 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, -1, 4 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, 0, 3 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, 1, 2 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, 2, 1 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -2, 2, 0 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 1, 0, -1 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 1, 0, -1 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 2, -1, -1 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 3, -2, -1 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 3, -2, -1 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 4, -3, -1 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 4, -4, 0 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 4, -5, 1 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, -5, 2 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 2, -5, 3 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 1, -5, 4 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, -2, 5 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -4, -1, 5 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -4, 0, 4 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -4, 1, 3 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -2, 3, -1 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -1, 2, -1 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 2, -2, 0 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 2, -3, 1 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 1, -4, 3 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -2, -2, 4 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -1, -3, 4 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -1, -3, 4 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 1, -6, 5 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 2, -6, 4 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, -6, 3 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 4, -6, 2 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 5, -6, 1 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 5, -5, 0 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 5, -5, 0 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 6, -5, -1 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 6, -5, -1 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 5, -4, -1 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 6, -6, 0 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 6, -6, 0 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 6, -4, -2 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 6, -4, -2 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 5, -3, -2 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 5, -2, -3 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 4, -1, -3 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, 0, -3 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 4, 0, -4 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, 1, -4 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 6, -3, -3 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 6, -3, -3 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 5, -1, -4 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 4, 1, -5 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 6, -2, -4 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 6, -2, -4 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 5, 0, -5 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 5, 1, -6 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -2, 4, -2 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -2, 4, -2 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -1, 4, -3 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -1, 4, -3 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 1, 3, -4 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 2, 3, -5 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, 3, -6 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 4, 3, -7 ]
+
+---
+kind: Building
+spec:
+  name: Small Oak Trees
+  location: [ 4, 3, -7 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 6, -1, -5 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 6, 0, -6 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 5, 2, -7 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 6, 1, -7 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 6, 2, -8 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 5, 3, -8 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 6, 3, -9 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, 2, -5 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 4, 2, -6 ]
+
+---
+kind: Building
+spec:
+  name: Small Oak Trees
+  location: [ 4, 2, -6 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 2, 1, -3 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 2, 1, -3 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 1, 1, -2 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 1, 1, -2 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 1, 2, -3 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 2, 2, -4 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -1, 3, -2 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, 3, 0 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 2, 0, -2 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 2, 0, -2 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 3, -1, -2 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 1, -1, 0 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 3, -3, 0 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 3, -3, 0 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 3, -4, 1 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 3, -4, 1 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 2, -4, 2 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 2, -4, 2 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 4, -2, -2 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -2, 1, 1 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -3, 4, -1 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -3, 4, -1 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 0, 4, -4 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 1, 4, -5 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 2, 4, -6 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, 4, -7 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 4, 4, -8 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 5, 4, -9 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 6, 4, -10 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -4, 4, 0 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -4, 4, 0 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -4, 3, 1 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -4, 2, 2 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -3, -6, 9 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -3, -6, 9 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -4, -5, 9 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -4, -5, 9 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -4, -6, 10 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -4, -6, 10 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -23, 5, 18 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -23, 5, 18 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -19, 1, 18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -18, 0, 18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -16, -2, 18 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -16, -2, 18 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -15, -3, 18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -21, 3, 18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -22, 4, 18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, -25, 22 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, -24, 21 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 4, -24, 20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 4, -25, 21 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 5, -26, 21 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 6, -26, 20 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 6, -26, 20 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 7, -26, 19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 4, -26, 22 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, -26, 23 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, -23, 20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 3, -22, 19 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ 3, -22, 19 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 3, -21, 18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, -20, 17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, -19, 16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 5, -25, 20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 5, -24, 19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 4, -23, 19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 6, -25, 19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 8, -26, 18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 9, -27, 18 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 9, -27, 18 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 10, -27, 17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 11, -27, 16 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 11, -27, 16 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 8, -27, 19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 6, -27, 21 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 7, -27, 20 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 7, -27, 20 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 5, -27, 22 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 4, -27, 23 ]
+
+---
+kind: Building
+spec:
+  name: Small Oak Trees
+  location: [ 4, -27, 23 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 11, -26, 15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 9, -25, 16 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 9, -25, 16 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 9, -24, 15 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 9, -24, 15 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 8, -24, 16 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 8, -24, 16 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 8, -23, 15 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 8, -23, 15 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 7, -23, 16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 6, -22, 16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 5, -21, 16 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ 5, -21, 16 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 4, -20, 16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 4, -19, 15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 5, -20, 15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 6, -21, 15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 7, -22, 15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 10, -25, 15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 12, -27, 15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 10, -26, 16 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 10, -26, 16 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 9, -26, 17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 8, -25, 17 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 8, -25, 17 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 7, -24, 17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 6, -23, 17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 6, -24, 18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 7, -25, 18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 5, -23, 18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 5, -22, 17 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ 5, -22, 17 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 4, -22, 18 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ 4, -22, 18 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 4, -21, 17 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ 4, -21, 17 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 3, -18, 15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 3, -27, 24 ]
+
+---
+kind: Building
+spec:
+  name: Small Oak Trees
+  location: [ 3, -27, 24 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 13, -27, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 12, -26, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 11, -25, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 10, -24, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 9, -23, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 8, -22, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 7, -21, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 6, -20, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 5, -19, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 4, -18, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, -17, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 3, -28, 25 ]
+
+---
+kind: Building
+spec:
+  name: Small Oak Trees
+  location: [ 3, -28, 25 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 4, -28, 24 ]
+
+---
+kind: Building
+spec:
+  name: Small Oak Trees
+  location: [ 4, -28, 24 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 5, -28, 23 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 5, -28, 23 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 6, -28, 22 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 6, -28, 22 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 7, -28, 21 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 7, -28, 21 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 8, -28, 20 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 8, -28, 20 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 9, -28, 19 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 9, -28, 19 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 10, -28, 18 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 10, -28, 18 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 11, -28, 17 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 11, -28, 17 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 12, -28, 16 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 12, -28, 16 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 13, -28, 15 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 13, -28, 15 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 14, -28, 14 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 14, -28, 14 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -21, -5, 26 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -21, -4, 25 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -20, -5, 25 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -20, -4, 24 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -19, -4, 23 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -19, -3, 22 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -19, -3, 22 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -20, -3, 23 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -20, -3, 23 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -19, -2, 21 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -18, -3, 21 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -18, -2, 20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -17, -2, 19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -18, -1, 19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -16, -5, 21 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -16, -4, 20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -16, -3, 19 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -16, -3, 19 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -16, -1, 17 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -16, -1, 17 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -16, 0, 16 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -16, 0, 16 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -15, 0, 15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -16, 1, 15 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -16, 1, 15 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -15, 1, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -16, 2, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -15, 2, 13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -17, -5, 22 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -18, -5, 23 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -21, -3, 24 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -24, -1, 25 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -24, -1, 25 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -24, -2, 26 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -23, -3, 26 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -22, -4, 26 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -19, -5, 24 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -15, -4, 19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -17, 2, 15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -17, 3, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -17, 4, 13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -18, 5, 13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -19, 6, 13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -24, 0, 24 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -24, 1, 23 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -25, 1, 24 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -26, 1, 25 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -27, 2, 25 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -28, 2, 26 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -27, 1, 26 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -29, 3, 26 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -29, 3, 26 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -30, 4, 26 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -30, 4, 26 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -30, 5, 25 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -30, 5, 25 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -30, 6, 24 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -30, 6, 24 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -29, 6, 23 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -29, 6, 23 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -29, 7, 22 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -29, 7, 22 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -28, 7, 21 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -28, 7, 21 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -28, 8, 20 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -28, 8, 20 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -27, 8, 19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -27, 9, 18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -26, 9, 17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -25, 9, 16 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -25, 9, 16 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -24, 9, 15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -23, 9, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -22, 8, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -21, 8, 13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -20, 7, 13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -30, 7, 23 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -30, 7, 23 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -30, 8, 22 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -30, 8, 22 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -29, 8, 21 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -29, 8, 21 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -30, 9, 21 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -30, 9, 21 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -29, 9, 20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -28, 9, 19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -17, -4, 21 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -20, -1, 21 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -20, -1, 21 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -21, 0, 21 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -21, 0, 21 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -22, 1, 21 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -25, 4, 21 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -26, 5, 21 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -26, 5, 21 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -27, 6, 21 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -24, 3, 21 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -22, 0, 22 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -23, 0, 23 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -23, -1, 24 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -22, -2, 24 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -22, -2, 24 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -21, -2, 23 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -21, -2, 23 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -22, -3, 25 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -23, -2, 25 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -23, -2, 25 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -18, -4, 22 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -20, -2, 22 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -21, -1, 22 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -22, -1, 23 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -22, -1, 23 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -25, 2, 23 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -26, 3, 23 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -27, 4, 23 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -27, 4, 23 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -28, 5, 23 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -29, 5, 24 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -29, 4, 25 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -28, 3, 25 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -26, 2, 24 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -27, 3, 24 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -28, 4, 24 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -23, 1, 22 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -25, 3, 22 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -27, 5, 22 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -27, 5, 22 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -28, 6, 22 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -28, 6, 22 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -23, 2, 21 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -24, 2, 22 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -26, 4, 22 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -19, -1, 20 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -19, -1, 20 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -21, 1, 20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -22, 2, 20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -23, 3, 20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -24, 4, 20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -25, 5, 20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -26, 6, 20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -27, 7, 20 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -27, 7, 20 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -20, 0, 20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -17, -3, 20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -17, -1, 18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -17, 0, 17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -17, 1, 16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -16, 3, 13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -16, 4, 12 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -15, -2, 17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -15, -1, 16 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -15, -1, 16 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -15, 4, 11 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -30, 10, 20 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -30, 10, 20 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -29, 10, 19 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -29, 10, 19 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -28, 10, 18 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -28, 10, 18 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -27, 10, 17 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -27, 10, 17 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -26, 10, 16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -25, 10, 15 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -25, 10, 15 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -24, 10, 14 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -24, 10, 14 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -23, 10, 13 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -23, 10, 13 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -22, 9, 13 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -22, 9, 13 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -19, 0, 19 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -19, 0, 19 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -20, 1, 19 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -20, 1, 19 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -24, 5, 19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -25, 7, 18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -23, 4, 19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -21, 2, 19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -22, 3, 19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -25, 6, 19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -26, 7, 19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -15, -5, 20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -20, 2, 18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -24, 6, 18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -19, 2, 17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -24, 7, 17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -26, 8, 18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -23, 6, 17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -20, 3, 17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -18, 1, 17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -21, 4, 17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -25, 8, 17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -18, 2, 16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -23, 7, 16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -24, 8, 16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -22, 6, 16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -20, 4, 16 ]
+
+---
+kind: Building
+spec:
+  name: Small Oak Trees
+  location: [ -20, 4, 16 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -19, 3, 16 ]
+
+---
+kind: Building
+spec:
+  name: Small Oak Trees
+  location: [ -19, 3, 16 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -21, 5, 16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -22, 5, 17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -23, 8, 15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -20, 5, 15 ]
+
+---
+kind: Building
+spec:
+  name: Small Oak Trees
+  location: [ -20, 5, 15 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -19, 4, 15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -18, 3, 15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -21, 6, 15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -22, 7, 15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -18, 4, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -19, 5, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -21, 7, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -20, 6, 14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, -16, 13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, -15, 12 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, -14, 11 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 2, -13, 11 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 2, -12, 10 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 1, -11, 10 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 0, -10, 10 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 0, -9, 9 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -1, -8, 9 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -2, -7, 9 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -14, 4, 10 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -13, 3, 10 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -12, 3, 9 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -11, 2, 9 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -10, 1, 9 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -9, 0, 9 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -6, 1, 5 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -5, 1, 4 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -25, 0, 25 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -25, -1, 26 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -26, 0, 26 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -24, -3, 27 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -24, -3, 27 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -25, -2, 27 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -25, -2, 27 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -26, -1, 27 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -26, -1, 27 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -27, 0, 27 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -27, 0, 27 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -28, 1, 27 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -28, 1, 27 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -23, -4, 27 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -23, -4, 27 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -29, 2, 27 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -29, 2, 27 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -30, 3, 27 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -30, 3, 27 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -22, -5, 27 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -22, -5, 27 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -3, 17, -14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -4, 17, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -4, 18, -14 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -4, 18, -14 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -5, 18, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -6, 19, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -7, 20, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -7, 21, -14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -8, 21, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -8, 22, -14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -9, 22, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -9, 23, -14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -10, 23, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -10, 24, -14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -11, 24, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -12, 25, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -11, 25, -14 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -11, 25, -14 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -3, 16, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, 18, -15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, 19, -16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, 20, -17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -4, 21, -17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -4, 22, -18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, 22, -19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, 21, -18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, 23, -20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, 24, -21 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -10, 25, -15 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -10, 25, -15 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -9, 25, -16 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -9, 25, -16 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -8, 25, -17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -7, 25, -18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -6, 24, -18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -7, 24, -17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -8, 24, -16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -8, 23, -15 ]
+
+---
+kind: Building
+spec:
+  name: Large Pine Trees
+  location: [ -8, 23, -15 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -7, 22, -15 ]
+
+---
+kind: Building
+spec:
+  name: Large Pine Trees
+  location: [ -7, 22, -15 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -4, 20, -16 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -4, 20, -16 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -5, 20, -15 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -5, 20, -15 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -6, 20, -14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -5, 19, -14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -4, 19, -15 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -4, 19, -15 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -6, 21, -15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -9, 24, -15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -7, 23, -16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -5, 21, -16 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -5, 21, -16 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -6, 22, -16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -6, 23, -17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -5, 22, -17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -5, 23, -18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -4, 23, -19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -5, 24, -19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -6, 25, -19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -5, 25, -20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -4, 24, -20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -4, 25, -21 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, 25, -22 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -2, 25, -23 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, 26, -23 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -1, 25, -24 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 0, 25, -25 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 1, 25, -26 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 2, 25, -27 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, 25, -28 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, 27, -24 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, 28, -25 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, 29, -26 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, 30, -27 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -3, 31, -28 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -2, 31, -29 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -2, 31, -29 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -3, 32, -29 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -2, 32, -30 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -2, 33, -31 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -2, 33, -31 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -2, 30, -28 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -2, 28, -26 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -2, 27, -25 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -2, 26, -24 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -1, 27, -26 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -1, 27, -26 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -1, 28, -27 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -1, 28, -27 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 0, 28, -28 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 0, 28, -28 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 0, 29, -29 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 0, 29, -29 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 1, 29, -30 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -1, 26, -25 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 0, 26, -26 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 1, 26, -27 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 1, 27, -28 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 2, 27, -29 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 2, 28, -30 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 0, 27, -27 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 0, 27, -27 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -2, 29, -27 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -1, 30, -29 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -1, 29, -28 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -1, 29, -28 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ -3, 33, -30 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -3, 34, -31 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ -3, 34, -31 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ -1, 32, -31 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ -1, 32, -31 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 0, 31, -31 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 0, 31, -31 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 1, 30, -31 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 1, 30, -31 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 2, 29, -31 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 2, 29, -31 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 3, 28, -31 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 3, 28, -31 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 4, 27, -31 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 4, 27, -31 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 5, 26, -31 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 5, 26, -31 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 6, 25, -31 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ 6, 25, -31 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 5, 25, -30 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ 5, 25, -30 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 4, 25, -29 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 4, 26, -30 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ 4, 26, -30 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 3, 27, -30 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 2, 26, -28 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 3, 26, -29 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ 3, 26, -29 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 1, 28, -29 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -1, 31, -30 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 0, 30, -30 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 4, 5, -9 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 4, 6, -10 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 4, 7, -11 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, 8, -11 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 3, 9, -12 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 2, 10, -12 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 1, 11, -12 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 1, 12, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 0, 13, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -1, 14, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ -2, 15, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 22, -11, -11 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 23, -12, -11 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ 23, -12, -11 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 24, -13, -11 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 22, -12, -10 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ 22, -12, -10 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 21, -11, -10 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 21, -10, -11 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 22, -10, -12 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 23, -11, -12 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 24, -12, -12 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 25, -13, -12 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 26, -13, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 26, -12, -14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 25, -12, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 24, -11, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 23, -10, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 25, -11, -14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 25, -10, -15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 26, -11, -15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 24, -10, -14 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 24, -10, -14 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 24, -9, -15 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 24, -9, -15 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 23, -9, -14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 22, -8, -14 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 22, -8, -14 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 22, -9, -13 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 22, -9, -13 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 21, -9, -12 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 21, -8, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 21, -7, -14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 23, -8, -15 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 23, -8, -15 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 26, -10, -16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 25, -9, -16 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 25, -9, -16 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 24, -8, -16 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 24, -8, -16 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 23, -7, -16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 22, -7, -15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 20, -8, -12 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 20, -9, -11 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 20, -10, -10 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 20, -11, -9 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 21, -12, -9 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 22, -13, -9 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 23, -13, -10 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ 23, -13, -10 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 20, -7, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 19, -7, -12 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 19, -8, -11 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 19, -9, -10 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 19, -10, -9 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 19, -6, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 20, -6, -14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 21, -6, -15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 22, -6, -16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 23, -6, -17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 24, -6, -18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 25, -7, -18 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 25, -6, -19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 25, -5, -20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 24, -5, -19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 21, -5, -16 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 20, -5, -15 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 19, -5, -14 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 18, -6, -12 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 18, -7, -11 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ 18, -7, -11 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 18, -8, -10 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ 18, -8, -10 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 18, -9, -9 ]
+
+---
+kind: Building
+spec:
+  name: Small Rocks
+  location: [ 18, -9, -9 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 18, -5, -13 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 24, -7, -17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 25, -8, -17 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 26, -6, -20 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 26, -5, -21 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 27, -6, -21 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 27, -5, -22 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 26, -4, -22 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 25, -4, -21 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 26, -7, -19 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 28, -5, -23 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 27, -4, -23 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 26, -3, -23 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 27, -3, -24 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 28, -4, -24 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 27, -2, -25 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 28, -3, -25 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 28, -3, -25 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 29, -4, -25 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 29, -3, -26 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 28, -2, -26 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 28, -2, -26 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 17, -5, -12 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 16, -5, -11 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 15, -4, -11 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 14, -3, -11 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 13, -3, -10 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 12, -2, -10 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 11, -2, -9 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 10, -1, -9 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 9, -1, -8 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 8, 0, -8 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 7, 1, -8 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 30, -4, -26 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 31, -4, -27 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 31, -4, -27 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 32, -5, -27 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 30, -3, -27 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 30, -3, -27 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 29, -2, -27 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 29, -2, -27 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 28, -1, -27 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 28, -1, -27 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  location: [ 27, 0, -27 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 27, -1, -26 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  location: [ 26, 1, -27 ]
+  biome: DISCOVERED
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 27, 1, -28 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 27, 1, -28 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 28, 0, -28 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 28, 0, -28 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 29, -1, -28 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 29, -1, -28 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 30, -2, -28 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 30, -2, -28 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 31, -3, -28 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 31, -3, -28 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 32, -4, -28 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 32, -4, -28 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 26, 2, -28 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 26, 2, -28 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 33, -5, -28 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 33, -5, -28 ]
+  facingDirection: RIGHT
+
+---
+kind: Tile
+spec:
+  biome: DISCOVERED
+  location: [ 26, -8, -18 ]
+
+---
+kind: Building
+spec:
+  name: Large Oak Trees
+  location: [ 26, -8, -18 ]
+  facingDirection: RIGHT
