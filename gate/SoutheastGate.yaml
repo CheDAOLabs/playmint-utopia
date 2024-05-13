@@ -1,0 +1,20 @@
+---
+kind: BuildingKind
+spec:
+  category: custom
+  name: Southeast Gate
+  description: Pass through only if you have the right key.
+  model: door-closed
+  color: 4
+  contract:
+    file: ./SoutheastGate.sol
+  plugin:
+    file: ./SoutheastGate.js
+    alwaysActive: true
+  materials:
+    - name: Red Goo
+      quantity: 100
+    - name: Green Goo
+      quantity: 100
+    - name: Blue Goo
+      quantity: 100

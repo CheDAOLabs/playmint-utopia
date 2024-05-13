@@ -1,0 +1,28 @@
+---
+kind: Building
+spec:
+  name: Northwest Gate
+  location: [-5,1,4]
+  facingDirection: RIGHT
+
+---
+kind: Building
+spec:
+  name: Northeast Gate
+  location: [4,5,-9]
+  facingDirection: RIGHT
+
+---
+kind: Building
+spec:
+  name: Southeast Gate
+  location: [7,1,-8]
+  facingDirection: RIGHT
+
+---
+kind: Building
+spec:
+  name: Southwest Gate
+  location: [-2,-7,9]
+  facingDirection: RIGHT
+  
